@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rajdeep! 👋
 
-<!--
-**RajdeepRoy2827/RajdeepRoy2827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **About Me**
+- 🌟 **BCA Graduate** from MAKAUT.
+- 🚀 Currently pursuing my **MCA** at Adamas University.
+- 🧠 Deeply passionate about **Artificial Intelligence** and **Machine Learning**.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack & Interests**
+- **Core Interests:** Artificial Intelligence, Machine Learning Models, Data Structures & Algorithms
+- **Languages & Tools:** Python, Java, C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **My Goals**
+I am building intelligent systems and expanding my knowledge in AI/ML engineering. Always open to collaborating on open-source AI projects!
+
+📫 **How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/rajdeeproyofficial28)
