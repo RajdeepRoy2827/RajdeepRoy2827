@@ -25,7 +25,11 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,dart,git)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,dart,git,mysql)
+
+<br />
+
+<br />
 
 ## Interests: AI & Machine Learning
 
