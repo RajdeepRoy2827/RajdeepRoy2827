@@ -14,3 +14,4 @@ I am building intelligent systems and expanding my knowledge in AI/ML engineerin
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/rajdeeproyofficial28)
+- (https://drive.google.com/drive/u/0/home)
