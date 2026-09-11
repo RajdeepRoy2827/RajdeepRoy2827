@@ -25,3 +25,15 @@ I am building intelligent systems and expanding my knowledge in AI/ML engineerin
 
 ![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,dart,git)
 </div>
+
+<br />
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajdeepRoy2827&theme=dark&hide_border=true)](https://github.com/RajdeepRoy2827)
+
+<br />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepRoy2827&theme=dark&hide_border=true&layout=compact)](https://github.com/RajdeepRoy2827)
+
+</div>
