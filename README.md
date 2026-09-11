@@ -12,6 +12,7 @@
 📈 **My Goals**
 I am building intelligent systems and expanding my knowledge in AI/ML engineering. Always open to collaborating on open-source AI projects!
 
-📫 **How to reach me:**
-- [LinkedIn](https://www.linkedin.com/in/rajdeeproyofficial28)
-- [My CV](https://drive.google.com/file/d/1zsaM60qVKoIgPH6aAu2xRcnoo__UjNMK/view?usp=sharing)
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/(https://www.linkedin.com/in/rajdeeproyofficial28/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeeproy2728@gmail.com)
