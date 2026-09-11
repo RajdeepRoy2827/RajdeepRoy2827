@@ -8,8 +8,11 @@
 <br />
 ![AI & ML](https://img.shields.io/badge/🧠%20Deeply%20passionate%20about%20Artificial%20Intelligence%20and%20Machine%20Learning.-212121?style=for-the-badge)
 
-📈 **My Goals**
-I am building intelligent systems and expanding my knowledge in AI/ML engineering. Always open to collaborating on open-source AI projects!
+## 📈 Goals
+
+![Building Systems](https://img.shields.io/badge/Building%20intelligent%20systems%20and%20expanding%20knowledge%20in%20AI%2FML-212121?style=for-the-badge)
+<br />
+![Open Source](https://img.shields.io/badge/Always%20open%20to%20collaborating%20on%20open--source%20AI%20projects!-212121?style=for-the-badge)
 
 <div align="center">
 
