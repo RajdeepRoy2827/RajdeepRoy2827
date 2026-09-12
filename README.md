@@ -1,5 +1,7 @@
 # Hi there, I'm Rajdeep! 👋
 
+<div align="center">
+  
 ## 🎓 About Me
 
 ![BCA Graduate](https://img.shields.io/badge/🌟%20BCA%20Graduate%20from%20MAKAUT.-212121?style=for-the-badge)
@@ -14,7 +16,20 @@
 <br />
 ![Open Source](https://img.shields.io/badge/Always%20open%20to%20collaborating%20on%20open--source%20AI%20projects!-212121?style=for-the-badge)
 
-<div align="center">
+
+## Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,dart,git,mysql)
+<br />
+
+## Interests: AI & Machine Learning
+
+![AI and ML](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-212121?style=for-the-badge)
+![Machine Learning Models](https://img.shields.io/badge/Machine%20Learning%20Models-212121?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-212121?style=for-the-badge)
+<br />
 
 ## Connect with me
 
@@ -22,25 +37,7 @@
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajdeeproy2728@gmail.com)
 
 <br />
-
-## Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,dart,git,mysql)
-
-<br />
-
-<br />
-
-## Interests: AI & Machine Learning
-
-![AI and ML](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
-<br />
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-212121?style=for-the-badge)
-![Machine Learning Models](https://img.shields.io/badge/Machine%20Learning%20Models-212121?style=for-the-badge)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-212121?style=for-the-badge)
 </div>
-
-<br />
 
 <div align="center">
 
